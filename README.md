@@ -9,6 +9,10 @@
 - 📚 영상 라이브러리
 - 🎥 영상 편집 (개발 예정)
 
+## 배포된 앱 보기
+
+🚀 **라이브 데모**: [moviemaker.vercel.app](https://moviemaker.vercel.app) (배포 후 URL 업데이트 예정)
+
 ## 시작하기
 
 ### 1. 의존성 설치
